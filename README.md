@@ -3,6 +3,7 @@
 Pretrained caffe model of LRDKT.
 
 ## Models
+### VGG16
 224x224 center crop validation accuracy on ImageNet, tested on one GTX TITAN X GPU with batch_size=50.
 
  | Model | #Param. | #FLOPs | CPU speedup | GPU speedup | Top-1 Err. | Top-5 Err. |  
