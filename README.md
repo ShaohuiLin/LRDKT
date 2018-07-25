@@ -1,8 +1,15 @@
 # LRDKT
 
-Pretrained caffe model of LRDKT.
+The cnn compression algorithm LRDKT.
+
+## Caffe
+We modfiy Caffe code, see the `caffe` directory for code and more information.
+
+## Train
+See the `train` directory for code and more information.
 
 ## Models
+Test prototxt and caffemodel in `test`.
 ### AlexNet
 227x227 center crop validation accuracy on ImageNet, tested on one GTX TITAN X GPU with batch_size=32.
 
