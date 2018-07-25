@@ -26,5 +26,5 @@ python generate_model.py --model VGG_ILSVRC_16_train_val.prototxt --weights VGG_
 
 4. train
 ```
-../../build/tools/caffe train --solver solver_all_0.7_LRDKT.prototxt --weights vgg16_KT_0.7.caffemodel --gpu 0
+{The root directory of caffe}/build/tools/caffe train --solver solver_all_0.7_LRDKT.prototxt --weights vgg16_KT_0.7.caffemodel --gpu 0
 ```
