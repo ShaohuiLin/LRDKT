@@ -2,6 +2,19 @@
 
 The cnn compression algorithm LRDKT.
 
+## Citation
+If you find our project useful in your research, please consider citing:
+
+```
+@article{lin2018holistic,
+  title={Holistic CNN Compression via Low-rank Decomposition with Knowledge Transfer},
+  author={Lin, Shaohui and Ji, Rongrong and Chen, Chao and Tao, Dacheng and Luo, Jiebo},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  year={2018},
+  publisher={IEEE}
+}
+```
+
 ## Caffe
 We modfiy Caffe code, see the `caffe` directory for code and more information.
 
